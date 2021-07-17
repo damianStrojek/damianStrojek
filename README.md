@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @damianStrojek
-- 👀 I’m interested in cybersecurity and networking.
-- 🌱 I’m currently learning penetration testing while studying Computer Science at GUT
-- 💞️ I’m looking to collaborate on projects.
+- 👀 Right now I am focused on cybersecurity while studying Computer Science at GUT.
+- 🌱 Currently I'm in Top 1% on TryHackMe.com and everyday I'm moving forward.
+- 💞️ The last certificate I got was eJPT. 
 - 📫 How to reach me @mailto damian.sstrojek@gmail.com
 
 <!---
