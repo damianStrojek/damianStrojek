@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damianStrojek
 - 👀 Right now I am focused on cybersecurity while studying Computer Science at GUT.
-- 🌱 Currently I'm in Top 1% on TryHackMe.com and everyday I'm moving forward.
+- 🌱 Currently I'm in Top 3500 on TryHackMe.com and everyday I'm moving forward.
 - 💞️ The last certificate I got was eJPT. 
 - 📫 How to reach me @mailto damian.sstrojek@gmail.com
 
