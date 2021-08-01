@@ -36,8 +36,11 @@
 [<img align="left" alt="Various pentesting tools" width="26px" src="https://img.icons8.com/color-glass/48/000000/hacker.png" />][tools]
 
 
+
 <br />
 <br />
+
+[Tools that I use everyday](https://1drv.ms/w/s!An-JuvAzsBiS9gdufE7xucbRNhIf?e=7I5v16)
 
 ---
 
