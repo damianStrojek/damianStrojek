@@ -2,7 +2,7 @@
 
 ## I'm a Student, Pentester and an Author!!
 
-- 🔭 I just got into top1400 worldwide on TryHackMe!
+- 🔭 I just got into top600 worldwide on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
 - 👯 I’m looking to collaborate with other pentesters
 - 🥅 2021 Goals: Becoming top10 worldwide on TryHackMe, finding public vulnerability by myself and getting prepared for OSCP
