@@ -57,7 +57,7 @@
 [linkedin]: https://www.linkedin.com/in/damianstrojek/
 [books]: https://itstart.pl/presta/szukaj?controller=search&s=Damian+Strojek
 [tryhackme]: https://tryhackme.com/p/damianStr
-[tools]: https://1drv.ms/w/s!An-JuvAzsBiS9gdufE7xucbRNhIf?e=7I5v16
+[tools]: https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8
 [cpp]: https://github.com/damianStrojek/Computer-Science-Algorithms
 [python]: https://github.com/damianStrojek/Python-GameOfLife
 [kali]: https://www.kali.org/
