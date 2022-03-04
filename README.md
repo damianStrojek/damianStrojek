@@ -1,6 +1,6 @@
 ### Hi there, I'm Damian - aka damianFresh 👋
 
-## I'm a Student, Pentester and an Author!!
+## I'm a Student, Pentester and an Author!
 
 - 🔭 I just got into top600 worldwide on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
