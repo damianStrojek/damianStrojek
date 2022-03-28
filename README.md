@@ -2,6 +2,7 @@
 
 ## I'm a Student, Pentester and an Author!
 
+- 👮 I work as a Security Engineer at Objectivity [objectivity]
 - 🔭 I just got into top600 worldwide on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
 - 👯 I’m looking to collaborate with other pentesters
@@ -61,3 +62,4 @@
 [cpp]: https://github.com/damianStrojek/Computer-Science-Algorithms
 [python]: https://github.com/damianStrojek/Python-GameOfLife
 [kali]: https://www.kali.org/
+[objectivity]: https://www.objectivity.co.uk/
