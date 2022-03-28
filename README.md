@@ -3,7 +3,7 @@
 ## I'm a Student, Pentester and an Author!
 
 - 👮 I work as a Security Engineer at [Objectivity]
-- 🔭 I just got into top600 worldwide on TryHackMe!
+- 🔭 Once I were top600 worldwide on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
 - 👯 I’m looking to collaborate with other pentesters
 - 🥅 2022 Goals: Becoming top100 worldwide on TryHackMe, finding public vulnerability by myself and getting OSCP certification
