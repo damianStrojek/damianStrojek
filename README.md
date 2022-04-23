@@ -6,8 +6,8 @@
 - 🔭 I used to be top600 worldwide on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
 - 👯 I’m looking to collaborate with other pentesters
-- 🥅 2022 Goals: Becoming top100 worldwide on TryHackMe, finding public vulnerability by myself and getting OSCP certification
-- ⚡ Fun fact: I am really good at Counter Strike and I do enjoy gym (I train kickboxing by myself)
+- 🥅 2022 Goals: Increasing security in Objectivity, finding public vulnerability by myself, getting Security+ from CompTia and OSCP.
+- ⚡ Fun fact: I spent more than 200 full days in Counter Strike and I like training in the gym by myself
 
 ### Spotify Playing 🎧
 
