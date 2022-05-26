@@ -1,6 +1,6 @@
 ### Hi there, I'm Damian - aka damianFresh 👋
 
-## I'm a Student, Pentester and an Author!
+## I'm a Student, Engineer and an Author!
 
 - 👮 I work as a Security Engineer at [Objectivity]
 - 🔭 I used to be top600 worldwide on TryHackMe!
