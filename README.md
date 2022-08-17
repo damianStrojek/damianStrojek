@@ -5,7 +5,7 @@
 - 👮 I work as a Security Engineer at [Objectivity]
 - 🔭 I used to be top600 worldwide on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
-- 👯 I’m looking to collaborate with other pentesters
+- 📚 In high school, I co-authored 3 IT-related books for technicians and students
 - 🥅 2022 Goals: Increasing security in Objectivity, finding public vulnerability by myself, getting CBBH or OSCP.
 - 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+ 
 - ⚡ Fun fact: I spent more than 200 full days in Counter Strike and I like training in the gym by myself
@@ -18,6 +18,7 @@
 
 [<img align="left" alt="damianFresh | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="damianFresh | TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
+[<img align="left" alt="Strojek | HackTheBox" width="22px" src="https://app.hackthebox.com/images/logos/logo-htb.svg" />][hackthebox]
 [<img align="left" alt="damianFresh | Instagram" width="22px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="damianFresh | Books" width="22px" src="https://img.icons8.com/color/48/000000/books.png" />][books]
 
@@ -59,6 +60,7 @@
 [linkedin]: https://www.linkedin.com/in/damianstrojek/
 [books]: https://itstart.pl/presta/szukaj?controller=search&s=Damian+Strojek
 [tryhackme]: https://tryhackme.com/p/damianStr
+[hackthebox]: https://app.hackthebox.com/profile/666612
 [tools]: https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8
 [cpp]: https://github.com/damianStrojek/Computer-Science-Algorithms
 [python]: https://github.com/damianStrojek/Python-GameOfLife
