@@ -18,7 +18,7 @@
 
 [<img align="left" alt="damianFresh | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="damianFresh | TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
-[<img align="left" alt="Strojek | HackTheBox" width="22px" src="https://app.hackthebox.com/images/logos/logo-htb.svg" />][hackthebox]
+[<img align="left" alt="Strojek | HackTheBox" width="22px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEuMmUvlz--8A/company-logo_200_200/0/1641810311920?e=1668643200&v=beta&t=8iDtmHAtjrJHNTI-GX9j3r0OSScuwrqdRATeylC0yyM" />][hackthebox]
 [<img align="left" alt="damianFresh | Instagram" width="22px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="damianFresh | Books" width="22px" src="https://img.icons8.com/color/48/000000/books.png" />][books]
 
