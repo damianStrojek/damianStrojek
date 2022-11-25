@@ -6,7 +6,7 @@
 - 🔭 I used to be top600 worldwide on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
 - 📚 In high school, I co-authored 3 IT-related books for technicians and students
-- 🥅 2022 Goals: Increasing security in Objectivity, finding public vulnerability by myself, getting CBBH or OSCP.
+- 🥅 2023 Goals: Increasing security in Objectivity, finding public vulnerability by myself, getting CBBH or OSCP.
 - 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+ 
 - ⚡ Fun fact: I spent more than 200 full days in Counter Strike and I like training in the gym by myself
 
