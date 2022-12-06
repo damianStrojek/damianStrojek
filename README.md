@@ -3,12 +3,12 @@
 ## I'm a Student, Engineer and an Author!
 
 - 👮 I work as a Security Engineer at [Objectivity]
-- 🔭 I used to be top600 worldwide on TryHackMe!
+- 🔭 I used to be top600 worldwide and top20 in Poland on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
 - 📚 In high school, I co-authored 3 IT-related books for technicians and students
-- 🥅 2023 Goals: Increasing security in Objectivity, finding public vulnerability by myself, getting CBBH or OSCP.
+- 🥅 2023 Goals: Increasing security in Objectivity, finding public vulnerability by myself, getting CBBH or OSCP
 - 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+ 
-- ⚡ Fun fact: I spent more than 200 full days in Counter Strike and I like training in the gym by myself
+- ⚡ Fun fact: I spent more than 200 full days in Counter Strike and I lift heavy loads in the gym
 
 ### Spotify Playing 🎧
 
