@@ -1,14 +1,14 @@
-### Hi there, I'm Damian - aka damianFresh 👋
+### Hi there, I'm Damian - aka damianFresh (Counter-Strike nickname) 👋
 
 ## I'm a Student, Engineer and an Author!
 
-- 👮 I work as a Security Engineer at [Objectivity]
+- 👮 I work as a Security Engineer at [Objectivity].
 - 🔭 I used to be top600 worldwide and top20 in Poland on TryHackMe!
-- 🌱 I’m currently studying Computer Science at GUT in Poland while working on my cybersecurity experience
-- 📚 In high school, I co-authored 3 IT-related books for technicians and students
-- 🥅 2023 Goals: Finding public vulnerability by myself, obtaining OSCP
-- 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+ 
-- ⚡ Fun fact: I spent more than 200 full days in Counter Strike and I lift heavy loads in the gym
+- 🌱 I’m currently studying Computer Science at GUT in Poland. The topic of my engineering thesis is *Design and implementation of a didactic security testing environment for web applications*. The second big project that I am currently working on is an application for monitoring the performance of a computing cluster.
+- 📚 In high school, I co-authored 3 IT-related books for technicians and students.
+- 🥅 2023 Goals: Obtaining OSCP by the end of summer break.
+- 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
+- ⚡ Fun fact: I spent around 6000 hours in Counter Strike and I train weightlifting.
 
 ### Spotify Playing 🎧
 
@@ -37,12 +37,10 @@
 [<img align="left" alt="Windows" width="26px" src="https://img.icons8.com/office/16/000000/windows-10.png" />][tools]
 [<img align="left" alt="Various pentesting tools" width="26px" src="https://img.icons8.com/color-glass/48/000000/hacker.png" />][tools]
 
-
-
 <br />
 <br />
 
-[Tools that I use everyday](https://1drv.ms/w/s!An-JuvAzsBiS9gdufE7xucbRNhIf?e=7I5v16)
+[My private notes that I use everyday](https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8)
 
 ---
 
