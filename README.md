@@ -1,4 +1,4 @@
-### Hi there, I am Damien 👋
+# Hi there, I am Damien 👋
 
 ## I'm a Student, Engineer and an Author!
 
@@ -10,11 +10,11 @@
 - 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
 - ⚡ Fun fact: I spent around 6000 hours in Counter Strike and I train weightlifting.
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [<img src="https://img.icons8.com/doodle/48/000000/spotify.png" alt="Damian Spotify Playing" width="50px" />](https://open.spotify.com/user/xilqenuo79sn2x2v99jgtiu9y)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="damianFresh | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="damianFresh | TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
@@ -24,7 +24,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][cpp]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][tools]
@@ -45,7 +45,7 @@
 
 ---
 
-### 📕 Latest LinkedIn Posts
+## 📕 Latest LinkedIn Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [My old list of pentesting tools](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6822939909016363008/)
