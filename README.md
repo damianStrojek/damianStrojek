@@ -18,7 +18,7 @@
 
 [<img align="left" alt="damianFresh | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="damianFresh | TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
-[<img align="left" alt="damianFresh | HackTheBox" width="22px" src="https://images.credly.com/images/3dcd637f-f94a-4405-9448-0409361214da/blob.png" />][hackthebox]
+[<img align="left" alt="damianFresh | HackTheBox" width="22px" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" />][hackthebox]
 [<img align="left" alt="damianFresh | Instagram" width="22px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="damianFresh | Books" width="22px" src="https://img.icons8.com/color/48/000000/books.png" />][books]
 
