@@ -1,11 +1,11 @@
-### Hi there, I'm Damian - aka damianFresh (Counter-Strike nickname) 👋
+### Hi there, I am Damien 👋
 
 ## I'm a Student, Engineer and an Author!
 
 - 👮 I work as a Security Engineer at [Objectivity].
 - 🔭 I used to be top600 worldwide and top20 in Poland on TryHackMe!
 - 🌱 I’m currently studying Computer Science at GUT in Poland. The topic of my engineering thesis is [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). The second big project that I am currently working on is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
-- 📚 In high school, I co-authored 3 IT-related books for technicians and students.
+- 📚 In technical high school, I co-authored [3 IT-related books for technicians and students](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm).
 - 🥅 2023 Goals: Obtaining OSCP by the end of summer break.
 - 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
 - ⚡ Fun fact: I spent around 6000 hours in Counter Strike and I train weightlifting.
@@ -18,6 +18,7 @@
 
 [<img align="left" alt="damianFresh | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="damianFresh | TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
+[<img align="left" alt="damianFresh | HackTheBox" width="22px" src="https://www.hackthebox.com/images/logo-htb.svg" />][hackthebox]
 [<img align="left" alt="damianFresh | Instagram" width="22px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="damianFresh | Books" width="22px" src="https://img.icons8.com/color/48/000000/books.png" />][books]
 
@@ -62,3 +63,4 @@
 [python]: https://github.com/damianStrojek/Python-GameOfLife
 [kali]: https://www.kali.org/
 [Objectivity]: https://www.objectivity.co.uk/
+[hackthebox]: https://app.hackthebox.com/profile/666612
