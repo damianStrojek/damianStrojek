@@ -4,7 +4,7 @@
 
 - 👮 I work as a Security Engineer at [Objectivity].
 - 🔭 I used to be top600 worldwide and top20 in Poland on TryHackMe!
-- 🌱 I’m currently studying Computer Science at GUT in Poland. The topic of my engineering thesis is [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). The second big project that I am currently working on is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
+- 🌱 I’m currently studying Computer Science at GUT in Poland. The topic of my engineering thesis is [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications){:target="_blank"}. The second big project that I am currently working on is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster){:target="_blank"}.
 - 📚 In high school, I co-authored 3 IT-related books for technicians and students.
 - 🥅 2023 Goals: Obtaining OSCP by the end of summer break.
 - 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
@@ -12,14 +12,14 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://img.icons8.com/doodle/48/000000/spotify.png" alt="Damian Spotify Playing" width="50px" />](https://open.spotify.com/user/xilqenuo79sn2x2v99jgtiu9y)
+[<img src="https://img.icons8.com/doodle/48/000000/spotify.png" alt="Damian Spotify Playing" width="50px" />](https://open.spotify.com/user/xilqenuo79sn2x2v99jgtiu9y){:target="_blank"}
 
 ### Connect with me:
 
-[<img align="left" alt="damianFresh | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="damianFresh | TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
-[<img align="left" alt="damianFresh | Instagram" width="22px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="damianFresh | Books" width="22px" src="https://img.icons8.com/color/48/000000/books.png" />][books]
+[<img align="left" alt="damianFresh | LinkedIn" width="22px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]{:target="_blank"}
+[<img align="left" alt="damianFresh | TryHackMe" width="22px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]{:target="_blank"}
+[<img align="left" alt="damianFresh | Instagram" width="22px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]{:target="_blank"}
+[<img align="left" alt="damianFresh | Books" width="22px" src="https://img.icons8.com/color/48/000000/books.png" />][books]{:target="_blank"}
 
 <br />
 
@@ -40,15 +40,15 @@
 <br />
 <br />
 
-[My private notes that I use everyday](https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8)
+[My private notes that I use everyday](https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8){:target="_blank"}
 
 ---
 
 ### 📕 Latest LinkedIn Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My old list of pentesting tools](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6822939909016363008/)
-- [Basic step-by-step linux privilege escalation](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6821809153791578113/)
+- [My old list of pentesting tools](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6822939909016363008/){:target="_blank"}
+- [Basic step-by-step linux privilege escalation](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6821809153791578113/){:target="_blank"}
 <!-- BLOG-POST-LIST:END -->
 
 ---
