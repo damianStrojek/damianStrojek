@@ -1,4 +1,4 @@
-# Hi there, I am Damien 👋
+# Hi there, I am Damian 👋
 
 ## I'm a Student, Engineer and an Author!
 
