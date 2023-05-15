@@ -2,7 +2,7 @@
 
 ## I'm a Student, Engineer and an Author!
 
-### You can check my Internet site at [damianStrojek.github.io].
+**You can check my Internet site at [damianStrojek.github.io].**
 
 👮 I work as a Security Engineer at [Objectivity].
 
