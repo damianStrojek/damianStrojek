@@ -30,16 +30,7 @@
 <br />
 <br />
 
-[My private notes that I use everyday](https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8)
-
----
-
-## 📕 Latest LinkedIn Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [My old list of pentesting tools](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6822939909016363008/)
-- [Basic step-by-step linux privilege escalation](https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6821809153791578113/)
-<!-- BLOG-POST-LIST:END -->
+[Self-made notes that I use everyday](https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8)
 
 ---
 
