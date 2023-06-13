@@ -8,7 +8,7 @@
 
 🔭 I used to be top600 worldwide and top20 in Poland on TryHackMe!
 
-🌱 I’m currently studying Computer Science at GUT in Poland. The topic of my engineering thesis is [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). The second big project that I am currently working on is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
+🌱 I’m currently studying Computer Science at GUT in Poland. The topic of my engineering thesis is [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). Another big project I have been working on recently is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
 
 📚 In technical high school, I co-authored [3 books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published in Polish and English.
 
