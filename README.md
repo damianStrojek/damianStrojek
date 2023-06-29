@@ -12,7 +12,7 @@
 
 📚 In technical high school, I co-authored [3 books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published in Polish and English.
 
-🥅 2023 Goals: Obtaining OSCP by the end of summer break.
+🥅 I am currently in the process of obtaining my OSCP.
 
 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
 
