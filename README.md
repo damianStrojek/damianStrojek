@@ -8,15 +8,17 @@
 
 🔭 I used to be top600 worldwide and top20 in Poland on TryHackMe!
 
-🌱 I’m currently studying Computer Science at GUT in Poland. The topic of my engineering thesis is [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). Another big project I have been working on recently is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
+🌱 I’m currently doing my Master in Artificial Intelligence and Machine Learning
+
+🌱 The topic of my engineering thesis was [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). Another big project I have been working on recently is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
 
 📚 In technical high school, I co-authored [3 books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published in Polish and English.
 
-🥅 I am currently in the process of obtaining my OSCP.
+🥅 Currently in the process of obtaining my OSCP.
 
 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
 
-⚡ Fun fact: I spent around 6000 hours in Counter Strike and I train weightlifting.
+⚡ Fun fact: I spent around 6000 hours in Counter Strike and I am an amateur powerlifter.
 
 ## Connect with me:
 
