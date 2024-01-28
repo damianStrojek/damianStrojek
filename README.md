@@ -6,9 +6,9 @@
 
 👮 I work as a Security Engineer at [Objectivity].
 
-🔭 I used to be top600 worldwide and top20 in Poland on TryHackMe!
+🔭 I used to be Top600 worldwide and Top20 in Poland on TryHackMe!
 
-🌱 I’m currently doing my Master in Artificial Intelligence and Machine Learning
+🌱 I am currently studying a Master's degree in Artificial Intelligence and Machine Learning
 
 🌱 The topic of my engineering thesis was [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). Another big project I have been working on recently is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
 
