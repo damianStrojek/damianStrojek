@@ -4,17 +4,17 @@
 
 **You can check my Internet site at [damianStrojek.github.io].**
 
-👮 I work as a Security Engineer at [Objectivity].
+👮 I work as a Security Delivery Analyst at [Accenture]. Before that, for 2 years I was an Security Engineer at [Objectivity].
 
 🔭 I used to be Top600 worldwide and Top20 in Poland on TryHackMe!
 
-🌱 I am currently studying a Master's degree in Artificial Intelligence and Machine Learning
+🌱 I am currently working on my Master's thesis in the field of Artificial Intelligence and Machine Learning.
 
 🌱 The topic of my engineering thesis was [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). Another big project I have been working on recently is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
 
 📚 In technical high school, I co-authored [3 books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published in Polish and English.
 
-🥅 Currently in the process of obtaining my OSCP.
+🥅 Currently in the process of obtaining my OSCP. 
 
 🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
 
@@ -46,5 +46,6 @@
 [python]: https://github.com/damianStrojek/Python-GameOfLife
 [kali]: https://www.kali.org/
 [Objectivity]: https://www.objectivity.co.uk/
+[Accenture]: https://www.accenture.com/
 [hackthebox]: https://app.hackthebox.com/profile/666612
 [spotify]: https://open.spotify.com/user/xilqenuo79sn2x2v99jgtiu9y
