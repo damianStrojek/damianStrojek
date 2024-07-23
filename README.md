@@ -1,10 +1,10 @@
 # Hi there, I am Damian 👋
 
-## I'm a Student, Engineer and an Author!
+## I'm a Pentester, Student, and an Author!
 
 **You can check my Internet site at [damianStrojek.github.io].**
 
-👮 I work as a Security Delivery Analyst at [Accenture]. Before that, for 2 years I was an Security Engineer at [Objectivity].
+👮 I work as a Penetration Tester at [Accenture]. Before that, for more than 2 years I was an Security Engineer at [Objectivity].
 
 🔭 I used to be Top600 worldwide and Top20 in Poland on TryHackMe!
 
@@ -14,9 +14,9 @@
 
 📚 In technical high school, I co-authored [3 books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published in Polish and English.
 
-🥅 Currently in the process of obtaining my OSCP. 
+🥅 Currently in the process of obtaining my OSED. 
 
-🎃 Proud owner of eJPT, AZ-900, SC-900, and CompTIA Security+.
+🎃 Proud owner of eJPT, AZ-900, SC-900, CompTIA Security+, and OSCP.
 
 ⚡ Fun fact: I spent around 6000 hours in Counter Strike and I am an amateur powerlifter.
 
@@ -29,15 +29,10 @@
 [<img align="left" alt="damianFresh | Instagram" width="30px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="damianFresh | Books" width="30px" src="https://img.icons8.com/color/48/000000/books.png" />][books]
 
-<br />
-<br />
-
-[Self-made notes that I use everyday](https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8)
-
 ---
 
 [damianstrojek.github.io]: https://damianstrojek.github.io/
-[instagram]: https://www.instagram.com/strojekdamian/
+[instagram]: https://www.instagram.com/strojekdamian_/
 [linkedin]: https://www.linkedin.com/in/damianstrojek/
 [books]: https://itstart.pl/presta/szukaj?controller=search&s=Damian+Strojek
 [tryhackme]: https://tryhackme.com/p/damianStr
