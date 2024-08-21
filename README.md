@@ -25,7 +25,7 @@
 [<img src="https://img.icons8.com/doodle/48/000000/spotify.png" alt="Damian Spotify Playing" width="30px" />][spotify]
 [<img align="left" alt="damianFresh | LinkedIn" width="30px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="damianFresh | TryHackMe" width="30px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
-[<img align="left" alt="damianFresh | HackTheBox" width="30px" src="https://static-00.iconduck.com/assets.00/hack-the-box-icon-512x512-pokr8xc5.png" />][hackthebox]
+[<img align="left" alt="damianFresh | HackTheBox" width="30px" src="https://www.svgrepo.com/show/330606/hackthebox.svg" />][hackthebox]
 [<img align="left" alt="damianFresh | Instagram" width="30px" src="https://img.icons8.com/fluency/16/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="damianFresh | Books" width="30px" src="https://img.icons8.com/color/48/000000/books.png" />][books]
 
