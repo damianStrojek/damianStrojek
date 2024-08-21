@@ -12,13 +12,13 @@
 
 🌱 The topic of my engineering thesis was [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). Another big project I have been working on recently is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
 
-📚 In technical high school, I co-authored [3 books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published in Polish and English.
+📚 In technical high school, I co-authored [several books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published mostly in polish, but recently some of them were translated to english.
 
-🥅 Currently in the process of obtaining my OSED. 
+🥅 Currently in the process of obtaining OSED. 
 
 🎃 Proud owner of eJPT, AZ-900, SC-900, CompTIA Security+, and OSCP.
 
-⚡ Fun fact: I spent around 6000 hours in Counter Strike and I am an amateur powerlifter.
+⚡ Facts: I spent around 6000 hours in Counter Strike and I am an amateur powerlifter.
 
 ## Connect with me:
 
