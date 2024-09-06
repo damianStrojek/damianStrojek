@@ -16,7 +16,7 @@
 
 🥅 Currently in the process of obtaining OSED. 
 
-🎃 Proud owner of eJPT, AZ-900, SC-900, CompTIA Security+, and OSCP.
+🎃 Proud owner of eJPT, AZ-900, SC-900, CompTIA Security+, OSCP, and OSED.
 
 ⚡ Facts: I spent around 6000 hours in Counter Strike and I am an amateur powerlifter.
 
