@@ -14,7 +14,7 @@
 
 📚 In technical high school, I co-authored [several books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published mostly in polish, but recently some of them were translated to english.
 
-🥅 Currently in the process of obtaining OSED. 
+🥅 Currently in the process of obtaining OSEP (Offensive Security Experienced Penetration Tester). 
 
 🎃 Proud owner of eJPT, AZ-900, SC-900, CompTIA Security+, OSCP, and OSED.
 
