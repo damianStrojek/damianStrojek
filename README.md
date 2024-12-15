@@ -2,9 +2,7 @@
 
 ## I'm a Pentester, Student, and an Author!
 
-**You can check my Internet site at [damianStrojek.github.io].**
-
-👮 I work as a Penetration Tester at [Accenture]. Before that, for more than 2 years I was an Security Engineer at [Objectivity].
+👮 I work as a Penetration Tester at [TestArmy].
 
 🔭 I used to be Top600 worldwide and Top20 in Poland on TryHackMe!
 
@@ -41,6 +39,6 @@
 [python]: https://github.com/damianStrojek/Python-GameOfLife
 [kali]: https://www.kali.org/
 [Objectivity]: https://www.objectivity.co.uk/
-[Accenture]: https://www.accenture.com/
+[TestArmy]: https://testarmy.com/
 [hackthebox]: https://app.hackthebox.com/profile/666612
 [spotify]: https://open.spotify.com/user/xilqenuo79sn2x2v99jgtiu9y
