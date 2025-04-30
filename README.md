@@ -4,19 +4,19 @@
 
 👮 I work as a Penetration Tester at [TestArmy].
 
-🔭 I used to be Top600 worldwide and Top20 in Poland on TryHackMe!
+🎃 I proudly hold several certifications, including eJPT, AZ-900, SC-900, CompTIA Security+, OSCP, and OSED.
 
-🌱 I am currently working on my Master's thesis in the field of Artificial Intelligence and Machine Learning.
+🌱 I'm currently working on my Master’s thesis in the field of Artificial Intelligence and Machine Learning.
 
-🌱 The topic of my engineering thesis was [*Design and implementation of a didactic security testing environment for web applications*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). Another big project I have been working on recently is [*an application for monitoring the performance of a computing cluster*](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
+🥅 I'm in the process of obtaining the OSEP (Offensive Security Experienced Penetration Tester) certification.
 
-📚 In technical high school, I co-authored [several books intended for students of CS-related courses](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). They were published mostly in polish, but recently some of them were translated to english.
+🔭 I was previously ranked in the Top 600 worldwide and Top 20 in Poland on [TryHackMe]! In my free time, I also engage in challenges on [HTB].
 
-🥅 Currently in the process of obtaining OSEP (Offensive Security Experienced Penetration Tester). 
+🌱 My engineering thesis focused on the [*design and implementation of a didactic environment for web application security testing*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). One of my more recent projects is an [application for monitoring the performance of a computing cluster](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
 
-🎃 Proud owner of eJPT, AZ-900, SC-900, CompTIA Security+, OSCP, and OSED.
+📚 During technical high school, I co-authored [several textbooks for students in computer science-related fields](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). While most were originally published in Polish, some have recently been translated into English.
 
-⚡ Facts: I spent around 6000 hours in Counter Strike and I am an amateur powerlifter.
+⚡ Fun facts: I’ve spent around 6,000 hours playing Counter-Strike, and I’m also an amateur powerlifter.
 
 ## Connect with me:
 
@@ -34,6 +34,7 @@
 [linkedin]: https://www.linkedin.com/in/damianstrojek/
 [books]: https://itstart.pl/presta/szukaj?controller=search&s=Damian+Strojek
 [tryhackme]: https://tryhackme.com/p/damianStr
+[TryHackMe]: https://tryhackme.com/p/damianStr
 [tools]: https://strojek-damian.notion.site/Cybersec-f1d1656517874f54a886af71f76beab8
 [cpp]: https://github.com/damianStrojek/Computer-Science-Algorithms
 [python]: https://github.com/damianStrojek/Python-GameOfLife
@@ -41,4 +42,4 @@
 [Objectivity]: https://www.objectivity.co.uk/
 [TestArmy]: https://testarmy.com/
 [hackthebox]: https://app.hackthebox.com/profile/666612
-[spotify]: https://open.spotify.com/user/xilqenuo79sn2x2v99jgtiu9y
+[HTB]: https://app.hackthebox.com/profile/666612
