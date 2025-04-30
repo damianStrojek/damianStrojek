@@ -20,7 +20,6 @@
 
 ## Connect with me:
 
-[<img src="https://img.icons8.com/doodle/48/000000/spotify.png" alt="Damian Spotify Playing" width="30px" />][spotify]
 [<img align="left" alt="damianFresh | LinkedIn" width="30px" src="https://img.icons8.com/office/16/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="damianFresh | TryHackMe" width="30px" src="https://tryhackme.com/img/favicon.png" />][tryhackme]
 [<img align="left" alt="damianFresh | HackTheBox" width="30px" src="https://www.svgrepo.com/show/330606/hackthebox.svg" />][hackthebox]
