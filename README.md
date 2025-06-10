@@ -28,7 +28,6 @@
 
 ---
 
-[damianstrojek.github.io]: https://damianstrojek.github.io/
 [instagram]: https://www.instagram.com/strojekdamian_/
 [linkedin]: https://www.linkedin.com/in/damianstrojek/
 [books]: https://itstart.pl/presta/szukaj?controller=search&s=Damian+Strojek
