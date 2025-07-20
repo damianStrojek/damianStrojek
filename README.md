@@ -1,6 +1,6 @@
 # wh1tec0re
 
-🎓 Website: [whitehet.zip](https://whitehat.zip/)
+🎓 Website: [whitehat.zip](https://whitehat.zip/)
 
 ## I'm a Pentester, Student, and an Author!
 
