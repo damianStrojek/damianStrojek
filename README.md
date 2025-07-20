@@ -1,6 +1,6 @@
-# Hi there, I am Damian 👋
+# wh1tec0re
 
-🎓 My website: [whitehet.zip](https://whitehat.zip/)
+🎓 Website: [whitehet.zip](https://whitehat.zip/)
 
 ## I'm a Pentester, Student, and an Author!
 
