@@ -6,11 +6,11 @@
 
 👮 I work as a Penetration Tester at [TestArmy].
 
-🎃 I proudly hold several certifications, including eJPT, AZ-900, SC-900, CompTIA Security+, OSCP, and OSED.
+🎃 I proudly hold several certifications, including OSCP, OSED, OSEP, eJPT, AZ-900, SC-900, and CompTIA Security+.
 
 🌱 I'm currently working on my Master’s thesis in the field of Artificial Intelligence and Machine Learning.
 
-🥅 I'm in the process of obtaining the OSEP (Offensive Security Experienced Penetration Tester) certification.
+🥅 I'm in the process of obtaining the OSWE (Offensive Security Advanced Web Attacks and Exploitation) certification.
 
 🔭 I was previously ranked in the Top 600 worldwide and Top 20 in Poland on [TryHackMe]! In my free time, I also engage in challenges on [HTB].
 
@@ -18,7 +18,7 @@
 
 📚 During technical high school, I co-authored [several textbooks for students in computer science-related fields](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). While most were originally published in Polish, some have recently been translated into English.
 
-⚡ Fun facts: I’ve spent around 6,000 hours playing Counter-Strike, and I’m also an amateur powerlifter.
+⚡ Fun facts: I’ve spent around 6,000 hours playing Counter-Strike, and I’m also an amateur powerlifter / endurance sport athlete.
 
 ## Connect with me:
 
