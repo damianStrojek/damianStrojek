@@ -4,13 +4,13 @@
 
 ## I'm a Pentester, Student, and an Author!
 
-👮 I work as a Penetration Tester at [TestArmy].
+👮 I work as a Senior Penetration Tester at [TestArmy].
 
 🎃 I proudly hold several certifications, including OSCP, OSED, OSEP, eJPT, AZ-900, SC-900, and CompTIA Security+.
 
-🌱 I'm currently working on my Master’s thesis in the field of Artificial Intelligence and Machine Learning.
+🌱 MSc Eng. in Computer Science with a specialization in Artificial Intelligence and Machine Learning. 
 
-🥅 I'm in the process of obtaining the OSWE (Offensive Security Advanced Web Attacks and Exploitation) certification.
+🥅 I'm in the process of obtaining the OSWE (Offensive Security Advanced Web Attacks and Exploitation) and OSCE3 certifications.
 
 🔭 I was previously ranked in the Top 600 worldwide and Top 20 in Poland on [TryHackMe]! In my free time, I also engage in challenges on [HTB].
 
