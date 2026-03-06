@@ -2,7 +2,7 @@
 
 🎓 Website: [whitehat.zip](https://whitehat.zip/)
 
-## I'm a Pentester, Student, and an Author!
+## I'm an MSc Eng., Pentester and Author
 
 👮 I work as a Senior Penetration Tester at [TestArmy].
 
