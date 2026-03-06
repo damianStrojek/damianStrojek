@@ -14,6 +14,8 @@
 
 🔭 I was previously ranked in the Top 600 worldwide and Top 20 in Poland on [TryHackMe]! In my free time, I also engage in challenges on [HTB].
 
+🌱 My master's thesis focused on analyzing the use of honeypot systems for detecting modern network attacks. The research involved collecting data from honeypot environments and applying artificial intelligence and machine learning techniques to process and classify the gathered information. The goal of the study was to evaluate the effectiveness of honeypots as a tool for identifying contemporary cyber threats and to explore how AI-based methods can improve the analysis of malicious network activity.
+
 🌱 My engineering thesis focused on the [*design and implementation of a didactic environment for web application security testing*](https://github.com/damianStrojek/Security-Testing-of-Web-Applications). One of my more recent projects is an [application for monitoring the performance of a computing cluster](https://github.com/damianStrojek/Measuring-Performance-in-Computer-Claster).
 
 📚 During technical high school, I co-authored [several textbooks for students in computer science-related fields](https://www.empik.com/szukaj/produkt?q=damian%20strojek&qtype=basicForm). While most were originally published in Polish, some have recently been translated into English.
